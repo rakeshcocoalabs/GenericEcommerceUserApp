@@ -1,2 +1,1 @@
-# GenericEcommerceUserApp
-mobile app api for generic e commerce app
+# Church-app
